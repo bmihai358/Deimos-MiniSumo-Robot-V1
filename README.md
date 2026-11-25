@@ -12,7 +12,7 @@
 
 | Front & Plow View | Custom PCB & Electronics |
 | :---: | :---: |
-| <img src="assets/deimos-front.jpg" alt="Deimos Front View" width="380" /> | <img src="PCB_Front.png" alt="Deimos Custom PCB" width="380" /> |
+| <img src="image.png" alt="Deimos Front View" width="380" /> | <img src="PCB_Front.png" alt="Deimos Custom PCB" width="380" /> |
 
 <p align="center">
   <img src="assets/deimos-action.jpg" alt="Deimos in the Dohyo" width="600" />
