@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/deimos-hero.jpg" alt="Deimos Mini Sumo Robot" width="650" />
-</p>
-
 # 🤖 Deimos — Mini Sumo Robot
 
 **Deimos** is an autonomous **Mini Sumo robot** built to compete in the 500 g, 10 cm × 10 cm class. Designed for speed, low-center-of-gravity traction, and fast reaction times, Deimos autonomously locates opponents inside the dohyo, avoids ring boundaries, and pushes targets out of the arena.
@@ -15,7 +11,7 @@
 | <img src="image.png" alt="Deimos Front View" width="380" /> | <img src="PCB_Front.png" alt="Deimos Custom PCB" width="380" /> |
 
 <p align="center">
-  <img src="assets/deimos-action.jpg" alt="Deimos in the Dohyo" width="600" />
+  <img src="Deimos-Arena.jpeg" alt="Deimos in the Dohyo" width="500" />
 </p>
 
 ---
@@ -33,7 +29,7 @@
 
 <p align="center">
   <a href="https://jlcpcb.com/">
-    <img src="assets/jlcpcb-logo.png" alt="JLCPCB Sponsor Logo" width="420" />
+    <img src="logo - blue.png" alt="JLCPCB Sponsor Logo" width="420" />
   </a>
 </p>
 
